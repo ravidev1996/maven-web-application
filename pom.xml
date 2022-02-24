@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.233.158.86:9980/mithuntechnologies/repository/facebook-release/</url>
+	      <name>ravi Releases Nexus Repository</name>
+	      <url>http://http://65.2.82.227:9980/ravi/repository/facebook-snapshot /</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.233.158.86:9980/mithuntechnologies/repository/facebook-snapshot/</url>
+	      <name>ravi Snapshot Nexus Repository </name>
+	      <url>http://http://65.2.82.227:9980/ravi/repository/facebook-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
