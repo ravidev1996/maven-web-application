@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>ravi Releases Nexus Repository</name>
-	      <url>http://http://172.31.7.49:9980/ravi/repository/facebook-snapshot /</url>
+	      <url>http://13.233.121.195:9980/ravi/repository/facebook-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>ravi Snapshot Nexus Repository </name>
-	      <url>http://http://172.31.7.49:9980/ravi/repository/facebook-snapshot/</url>
+	      <url>http://13.233.121.195:9980/ravi/repository/facebook-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
